@@ -7,12 +7,12 @@
 ## 🖼️ Dashboard Gallery
 Below are the key views of the multi-page report. [cite_start]Each page is designed for high interactivity and visual clarity[cite: 56, 57].
 
-| Page | Preview | Key Features & Insights |
-| :--- | :--- | :--- |
-| **Home Page** | ![Home](images/home.png) | **Navigation Hub:** Features a custom UI for quick access to League, Team, and Player modules. |
-| **League Trend** | ![League](images/league.png) **Macro Analysis:** Tracks season-wise scoring averages and the "East vs. West" dominance over 18 years[cite: 31, 35]. |
-| **Team Analysis** | ![Team](images/team.png) | **Performance Patterns:** Deep dive into "Home vs. Away" win percentages and team ranking fluctuations[cite: 33, 34]. |
-| **Player Analysis** | ![Player](images/player.png) | **Efficiency:** Analysis of individual scoring styles (Free Throws vs. 2PT vs. 3PT) and player impact metrics[cite: 32, 49]. |
+| Page | Preview 
+| :--- | :--- 
+| **Home Page** | ![Home](images/home.png) 
+| **League Trend** | ![League](images/league.png)
+| **Team Analysis** | ![Team](images/team.png) 
+| **Player Analysis** | ![Player](images/player.png) 
 
 ## 🛠️ Data Engineering & Cleaning
 [cite_start]To meet the **Statistella evaluation criteria for Accuracy**[cite: 54], the following ETL steps were performed using Power Query:
