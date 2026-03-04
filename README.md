@@ -10,9 +10,9 @@ Below are the key views of the multi-page report. [cite_start]Each page is desig
 | Page | Preview | Key Features & Insights |
 | :--- | :--- | :--- |
 | **Home Page** | ![Home](images/home.png) | **Navigation Hub:** Features a custom UI for quick access to League, Team, and Player modules. |
-| **League Trend** | ![League](images/league.png) | [cite_start]**Macro Analysis:** Tracks season-wise scoring averages and the "East vs. West" dominance over 18 years[cite: 31, 35]. |
-| **Team Analysis** | ![Team](images/team.png) | [cite_start]**Performance Patterns:** Deep dive into "Home vs. Away" win percentages and team ranking fluctuations[cite: 33, 34]. |
-| **Player Analysis** | ![Player](images/player.png) | [cite_start]**Efficiency:** Analysis of individual scoring styles (Free Throws vs. 2PT vs. 3PT) and player impact metrics[cite: 32, 49]. |
+| **League Trend** | ![League](images/league.png) **Macro Analysis:** Tracks season-wise scoring averages and the "East vs. West" dominance over 18 years[cite: 31, 35]. |
+| **Team Analysis** | ![Team](images/team.png) | **Performance Patterns:** Deep dive into "Home vs. Away" win percentages and team ranking fluctuations[cite: 33, 34]. |
+| **Player Analysis** | ![Player](images/player.png) | **Efficiency:** Analysis of individual scoring styles (Free Throws vs. 2PT vs. 3PT) and player impact metrics[cite: 32, 49]. |
 
 ## 🛠️ Data Engineering & Cleaning
 [cite_start]To meet the **Statistella evaluation criteria for Accuracy**[cite: 54], the following ETL steps were performed using Power Query:
