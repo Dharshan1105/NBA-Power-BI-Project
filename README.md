@@ -14,7 +14,7 @@ Below are the key views of the multi-page report. [cite_start]Each page is desig
 | **Team Analysis** | ![Team](images/team.png) 
 | **Player Analysis** | ![Player](images/player.png) 
 
-## 🛠️ Data Engineering & Cleaning
+##  Data Engineering & Cleaning
 To meet the **Statistella evaluation criteria for Accuracy**[cite: 54], the following ETL steps were performed using Power Query:
 
 * **Data Normalization:** Cleaned and structured raw CSVs into organized tables: `games_clean`, `players_clean`, and `ranking_clean`.
@@ -22,12 +22,12 @@ To meet the **Statistella evaluation criteria for Accuracy**[cite: 54], the foll
 * **DAX Measures:** Developed custom measures for win-loss ratios and scoring trends to drive the dynamic visuals[cite: 50].
 * **Interactive Filters:** Implemented a global **Filter Panel** for Season, Team, and Player selection[cite: 51].
 
-## 📊 Key Insights
+##  Key Insights
 * **The 3-Point Shift:** The data highlights the dramatic increase in three-point attempts as a primary scoring method over the last decade.
 * **Home Court Advantage:** Analysis confirms a consistent ~58% win rate for home teams across the dataset.
 * **League Dominance:** The dashboard tracks the shifting power balance between the Eastern and Western conferences.
 
-## 🚀 How to Explore
+##  How to Explore
 1.  Download the `.pbix` file from this repository[cite: 66].
 2.  Open the file using **Power BI Desktop**.
 3.  Use the on-screen buttons to navigate through the different analytical views.
