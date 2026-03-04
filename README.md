@@ -28,7 +28,7 @@ Below are the key views of the multi-page report. [cite_start]Each page is desig
 * **League Dominance:** The dashboard tracks the shifting power balance between the Eastern and Western conferences.
 
 ## 🚀 How to Explore
-1.  [cite_start]Download the `.pbix` file from this repository[cite: 66].
+1.  Download the `.pbix` file from this repository[cite: 66].
 2.  Open the file using **Power BI Desktop**.
 3.  Use the on-screen buttons to navigate through the different analytical views.
 
